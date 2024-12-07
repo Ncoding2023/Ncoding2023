@@ -1,10 +1,21 @@
-<h1 align="center">안녕하세요 👋, 저는 SangWon Nam입니다.</h1>
-<h3 align="center">SI에서 시작한 주니어 개발자입니다.</h3>
+<h1 align="center">안녕하세요 👋, 저는 SANGWON NAM입니다.</h1>
+<h3 align="center">text</h3>
+
+- 🔭 현재 [text](text)를 작업하고 있습니다.
+
+- 🌱 현재 **text**를 배우고 있습니다.
+
+- 👯 [text](text)에서 협업하고 싶습니다.
+
+- 🤝 [text](text)에서 도움이 필요합니다.
+
+- 💬 **text**에 대해 문의하세요.
+
+- 📫 저에게 연락하는 방법 **text@text**
 
 <h3 align="left">저와 소통하세요:</h3>
 <p align="left">
 </p>
 
 <h3 align="left">언어 및 도구:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="부트스트랩"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" 너비="40" 높이="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" 너비="40" 높이="40"/> </a> <a href="https://git-scm.com/" 대상="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" 너비="40" 높이="40"/> </a> <a href="https://www.w3.org/html/" 대상="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" 너비="40" 높이="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="자바" 너비="40" 높이="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/웹/자바스크립트" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="자바스크립트" 너비="40" 높이="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" 너비="40" 높이="40"/> </a> <a href="https://www.oracle.com/" 대상="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" 너비="40" 높이="40"/> </a> <a href="https://reactjs.org/" 대상="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" 너비="40" 높이="40"/> </a> <a href="https://spring.io/" 대상="_blank" rel="참조 없음"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="스프링" 너비="40" 높이="40"/> </a> </p>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" 너비="40" 높이="40"/> </a> <a href="https://www.java.com" 대상="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" 너비="40" 높이="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/웹/JavaScript" 대상="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" 너비="40" 높이="40"/> </a> <a href="https://mariadb.org/" 대상="_blank" rel="참조 없음"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" 너비="40" 높이="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" 대상="_blank" rel="참조 없음"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" 너비="40" 높이="40"/> </a> <a href="https://www.mysql.com/" 대상="_blank" rel="참조 없음"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="오라클" 너비="40" 높이="40"/> </a> <a href="https://reactjs.org/" 대상="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="리액트" 너비="40" 높이="40"/> </a> <a href="https://spring.io/" 대상="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="스프링" 너비="40" 높이="40"/> </a> </p>
