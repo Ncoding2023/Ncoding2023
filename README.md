@@ -1,19 +1,9 @@
 <h1 align="center">안녕하세요 👋, 저는 웹 개발자 남상원입니다.</h1>
 <h3 align="center">text</h3>
 
-- 🔭 현재 [text](text)를 작업하고 있습니다.
 
-- 🌱 현재 **text**를 배우고 있습니다.
 
-- 👯 [text](text)에서 협업하고 싶습니다.
-
-- 🤝 [text](text)에서 도움이 필요합니다.
-
-- 💬 **text**에 대해 문의하세요.
-
-- 📫 저에게 연락하는 방법 **text@text**
-
-<h3 align="left">저와 소통하세요:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 <h3 align="left"> front end :</h3>
