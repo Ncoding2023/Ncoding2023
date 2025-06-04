@@ -1,8 +1,9 @@
 <h1 align="center">안녕하세요 👋, 저는 웹 개발자 남상원입니다.</h1>
-<h3 align="center">text</h3>
-<h3 align="center">코드 저장소:</h3>
+<h3 align="left">코드 저장소:</h3>
+<h4 align="left">운동 기록 웹</h3>
 <a href="https://github.com/Ncoding2023/healthcare" 대상="_blank" rel="noreferrer">https://github.com/Ncoding2023/healthcare</a> <br>
 <a href="https://github.com/Ncoding2023/healthcare_bak" 대상="_blank" rel="noreferrer">https://github.com/Ncoding2023/healthcare_bak</a> <br>
+<h4 align="left">레시피 기록 웹</h3>
 <a href="https://github.com/Ncoding2023/home-cooking" 대상="_blank" rel="noreferrer">https://github.com/Ncoding2023/home-cooking</a> <br>
 
 
