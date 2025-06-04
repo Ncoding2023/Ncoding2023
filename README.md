@@ -2,7 +2,7 @@
 <text>
  
 
-안녕하세요! 저는 웹 개발자로, Java와 Spring 프레임워크를 기반으로 한 실무 경험을 쌓아왔습니다. 다양한 프로젝트를 통해 백엔드 개발에 대한 깊은 이해를 갖추었으며, RESTful API 설계 및 데이터베이스 관리에 능숙합니다.
+안녕하세요! 저는 웹 개발자 남상원입니다, Java와 Spring 프레임워크를 기반으로 한 실무 경험을 쌓아왔습니다. 다양한 프로젝트를 통해 백엔드 개발에 대한 깊은 이해를 갖추었으며, RESTful API 설계 및 데이터베이스 관리에 능숙합니다.
 
 현재는 React와 Spring Boot를 활용하여 프론트엔드와 백엔드를 통합하는 역량을 확장하고 있습니다. 사용자 경험을 최우선으로 생각하며, 효율적이고 직관적인 웹 애플리케이션을 개발하기 위해 노력하고 있습니다.
 
@@ -11,12 +11,15 @@
 감사합니다!
 </text>
 <h3 align="left">코드 저장소:</h3>
-<h4 align="left">운동 기록 웹</h3>
+<h4 align="left">운동 기록 웹</h4>
 <a href="https://github.com/Ncoding2023/healthcare" 대상="_blank" rel="noreferrer">https://github.com/Ncoding2023/healthcare</a> <br>
 <a href="https://github.com/Ncoding2023/healthcare_bak" 대상="_blank" rel="noreferrer">https://github.com/Ncoding2023/healthcare_bak</a> <br>
-<h4 align="left">레시피 기록 웹</h3>
+<h4 align="left">레시피 기록 웹</h4>
 <a href="https://github.com/Ncoding2023/home-cooking" 대상="_blank" rel="noreferrer">https://github.com/Ncoding2023/home-cooking</a> <br>
 
+<h3 align="left">연락 및 피드백 문의 부탁드립니다!</h3>
+<p align="left"> ncoding1@gmail.com </p>
+	
 
 <h3 align="left"></h3>
 <p align="left">
